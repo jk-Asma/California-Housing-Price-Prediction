@@ -170,3 +170,11 @@ Machine Learning Internship Task 1
 ## Distribution of Features
 
 ![Histogram](images/histogram.png)
+
+## Actual Vs Prediction Plot
+
+![Actual Vs Prediction Plot](images/Actual_vs_Predicted.png)
+
+## Residual Plot
+
+![Residual Plot](images/Residual_Plot.png)
