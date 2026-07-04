@@ -1,4 +1,6 @@
 # California Housing Price Prediction using Linear Regression
+### link :
+https://california-housing-price-predictiongit.streamlit.app/
 
 ##  Project Overview
 
@@ -178,6 +180,7 @@ Machine Learning Internship Task 1
 ## Residual Plot
 
 ![Residual Plot](images/Residual_Plot.png)
+
 
 ## House Price Distribution
 
