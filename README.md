@@ -178,3 +178,7 @@ Machine Learning Internship Task 1
 ## Residual Plot
 
 ![Residual Plot](images/Residual_Plot.png)
+
+## House Price Distribution
+
+![House Price Distribution](images/House_Price_Distribution.png)
