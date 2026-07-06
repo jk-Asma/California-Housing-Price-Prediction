@@ -1,6 +1,11 @@
 # California Housing Price Prediction using Linear Regression
-### link :
+## Live Demo :
+Streamlit App:
 https://california-housing-price-predictiongit.streamlit.app/
+
+## Application Preview
+
+![Application Screen](images/model_Prediction.png)
 
 ##  Project Overview
 
